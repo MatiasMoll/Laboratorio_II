@@ -1,0 +1,6 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\bin\Debug\Ejercicio II.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\bin\Debug\Ejercicio II.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\bin\Debug\Ejercicio II.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\obj\Debug\Ejercicio II.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\obj\Debug\Ejercicio II.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio II\obj\Debug\Ejercicio II.pdb
