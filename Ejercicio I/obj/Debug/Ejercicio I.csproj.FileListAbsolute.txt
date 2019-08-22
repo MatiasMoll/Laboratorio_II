@@ -5,3 +5,10 @@ C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio I\obj\Debug\Ejercicio I.csprojA
 C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio I\obj\Debug\Ejercicio I.csproj.CoreCompileInputs.cache
 C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio I\obj\Debug\Ejercicio I.exe
 C:\Users\Bangho\Desktop\Laboratorio II\Ejercicio I\obj\Debug\Ejercicio I.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.pdb

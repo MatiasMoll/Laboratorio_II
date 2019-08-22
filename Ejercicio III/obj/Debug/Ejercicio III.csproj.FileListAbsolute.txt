@@ -1,0 +1,7 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\bin\Debug\Ejercicio III.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\bin\Debug\Ejercicio III.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\bin\Debug\Ejercicio III.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\obj\Debug\Ejercicio III.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\obj\Debug\Ejercicio III.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\obj\Debug\Ejercicio III.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio III\obj\Debug\Ejercicio III.pdb
