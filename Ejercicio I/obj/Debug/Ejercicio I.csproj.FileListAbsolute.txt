@@ -12,3 +12,10 @@ C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejer
 C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.csproj.CoreCompileInputs.cache
 C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.exe
 C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.exe.config
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\bin\Debug\Ejercicio I.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.csprojAssemblyReference.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\obj\Debug\Ejercicio I.pdb

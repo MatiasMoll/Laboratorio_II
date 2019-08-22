@@ -1,0 +1,6 @@
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\obj\Debug\Ejercicio V.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio 5\obj\Debug\Ejercicio 5.pdb

@@ -1,0 +1,6 @@
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\bin\Debug\Ejercicio VI.exe.config
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\bin\Debug\Ejercicio VI.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\bin\Debug\Ejercicio VI.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\obj\Debug\Ejercicio VI.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\obj\Debug\Ejercicio VI.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\Ejercicio VI\obj\Debug\Ejercicio VI.pdb
