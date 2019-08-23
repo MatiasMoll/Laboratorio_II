@@ -1,0 +1,7 @@
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\obj\Debug\Ejercicio XI.csprojAssemblyReference.cache
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\obj\Debug\Ejercicio XI.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\MatiasMoll\Laboratorio_II\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

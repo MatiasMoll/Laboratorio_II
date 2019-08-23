@@ -24,12 +24,25 @@ namespace Ejercicio_VII
             mes = Console.ReadLine();
             Console.Write("Ingrese el año de tu nacimiento: ");
             año = Console.ReadLine();
-            if (int.TryParse(dia, out diaIng) && int.TryParse(mes, out mesIng) && int.TryParse(año, out añoIng))
+            if (int.TryParse(dia, out diaIng) && int.TryParse(mes, out mesIng) && int.TryParse(año, out añoIng)&&
+                diaIng < 32 && diaIng>0 && mesIng<13 && mesIng>0)
             {
-                acumulador += (añoAct - añoIng) * 365;
+               /* acumulador += (añoAct - añoIng) * 365;
+                acumulador += (mesAct - mesIng) * 30;
+                acumulador += diaAct - diaIng;*/
+
+                for(;añoIng<añoAct;añoIng++)
+                {
+                    if(añoIng % 4 == 0 || añoIng % 400 == 0)
+                    {
+                        acumulador += 366;
+                    }else
+                    {
+                        acumulador += 365;
+                    }
+                }
                 acumulador += (mesAct - mesIng) * 30;
                 acumulador += diaAct - diaIng;
-
                 Console.WriteLine(acumulador);
             }
             
