@@ -1,0 +1,7 @@
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\obj\Debug\Ejercicio_XVII.csprojAssemblyReference.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\obj\Debug\Ejercicio_XVII.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\bin\Debug\Ejercicio_XVII.exe.config
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\bin\Debug\Ejercicio_XVII.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\bin\Debug\Ejercicio_XVII.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\obj\Debug\Ejercicio_XVII.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio_XVII\obj\Debug\Ejercicio_XVII.pdb

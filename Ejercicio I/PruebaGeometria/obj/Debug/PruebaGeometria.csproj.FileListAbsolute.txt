@@ -1,0 +1,6 @@
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\bin\Debug\PruebaGeometria.exe.config
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\bin\Debug\PruebaGeometria.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\bin\Debug\PruebaGeometria.pdb
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\obj\Debug\PruebaGeometria.csproj.CoreCompileInputs.cache
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\obj\Debug\PruebaGeometria.exe
+D:\MatiasMoll\Laboratorio_II\Ejercicio I\PruebaGeometria\obj\Debug\PruebaGeometria.pdb
