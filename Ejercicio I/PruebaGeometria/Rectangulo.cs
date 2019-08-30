@@ -24,15 +24,35 @@ namespace Geomatria
             punto4.Mpunto(vertice3.GetX(), vertice1.GetY());
         }
 
+        private float GetBase()
+        {
+            int x1;
+            int x2;
+            x1 = this.vertice1.GetX();
+            x2 = this.vertice4.GetX();
+            return x2 - x1;
+        }
+        private float GetAlt()
+        {
+            int y1;
+            int y2;
+            y1 = this.vertice1.GetY();
+            y2 = this.vertice2.GetY();
+            return y2 - y1;
+        }
         public float GetArea()
         {
-            
-            return this.area;
+            float bas = this.GetBase();
+            float alt = this.GetAlt();
+            return bas * alt;    
+        
         }
 
         public float GetPerimetro()
         {
-            return this.perimetro;
+            float bas = this.GetBase();
+            float alt = this.GetAlt();
+            return (bas + alt) * 2;
         }
 
     }
