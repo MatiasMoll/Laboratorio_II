@@ -1,0 +1,7 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\bin\Debug\Ejercicio XIX.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\bin\Debug\Ejercicio XIX.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\bin\Debug\Ejercicio XIX.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\obj\Debug\Ejercicio XIX.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\obj\Debug\Ejercicio XIX.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\obj\Debug\Ejercicio XIX.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio XIX\obj\Debug\Ejercicio XIX.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I", "Ejercicio I.csproj", "{713A8FB0-2039-4AD2-BC15-B2FD82B30956}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_XVII", "..\Ejercicio_XVII\Ejercicio_XVII.csproj", "{DC4B1DA6-785F-4B9D-8B26-5CF9E53C49C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaGeometria", "PruebaGeometria\PruebaGeometria.csproj", "{2BD9B18A-A894-4B4D-A93E-4C15B19C27DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio XIX", "..\Ejercicio XIX\Ejercicio XIX.csproj", "{9A359BDA-33C1-471A-882C-C7D1829323B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{2BD9B18A-A894-4B4D-A93E-4C15B19C27DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD9B18A-A894-4B4D-A93E-4C15B19C27DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD9B18A-A894-4B4D-A93E-4C15B19C27DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A359BDA-33C1-471A-882C-C7D1829323B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A359BDA-33C1-471A-882C-C7D1829323B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A359BDA-33C1-471A-882C-C7D1829323B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A359BDA-33C1-471A-882C-C7D1829323B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
