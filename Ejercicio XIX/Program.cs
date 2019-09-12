@@ -11,14 +11,11 @@ namespace Ejercicio_XIX
         static void Main(string[] args)
         {
             Console.Title = "Sobrecarga de Operadores";
-            Sumador prueba = new Sumador();
+            Sumador prueba = new Sumador(22);
             Sumador pruebaDos = new Sumador();
-            long numero;
-            string palabra;
-            pruebaDos.Add(15);
-            prueba.Add(15);
-            Console.WriteLine(prueba + pruebaDos);
-            Console.WriteLine(prueba | pruebaDos);
+            prueba.Sumar(15, 23);
+            Console.WriteLine(prueba);
+            Console.WriteLine(pruebaDos);
             Console.ReadKey();
         }
     }

@@ -10,22 +10,21 @@ namespace Ejercicio_XIX
     {
         private int cantidadSumas;
 
-        public void Add(int cantSumas)
+        public Sumador(int cantSumas)
         {
             this.cantidadSumas = cantSumas;
         }
-        public void Add()
-        {
-            this.Add(0);
-        }
+        public Sumador() : this(0) { }
+      
+         
         public long Sumar(long a, long b)
         {
-            cantidadSumas++;
+            this.cantidadSumas++;
             return a + b;
         }
         public string Sumar(string a, string b)
         {
-            cantidadSumas++;
+            this.cantidadSumas++;
             return a + b;
         }
         public static long operator +(Sumador s1, Sumador s2)

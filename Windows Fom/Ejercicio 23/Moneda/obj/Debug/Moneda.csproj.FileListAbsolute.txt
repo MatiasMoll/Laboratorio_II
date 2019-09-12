@@ -1,0 +1,6 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\bin\Debug\Moneda.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\bin\Debug\Moneda.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\obj\Debug\Moneda.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\obj\Debug\Moneda.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache

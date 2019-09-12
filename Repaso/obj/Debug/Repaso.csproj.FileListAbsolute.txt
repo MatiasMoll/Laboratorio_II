@@ -1,0 +1,7 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\bin\Debug\Repaso.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\bin\Debug\Repaso.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\obj\Debug\Repaso.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Repaso\obj\Debug\Repaso.pdb

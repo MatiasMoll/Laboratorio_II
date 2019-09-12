@@ -1,0 +1,13 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\bin\Debug\Ejercicio XXIII.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\bin\Debug\Ejercicio XXIII.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\bin\Debug\Ejercicio XXIII.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio_XXIII.Form1.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio_XXIII.Properties.Resources.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.csproj.GenerateResource.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\bin\Debug\Moneda.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\bin\Debug\Moneda.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Windows Fom\Ejercicio 23\Ejercicio XXIII\obj\Debug\Ejercicio XXIII.csproj.CopyComplete
