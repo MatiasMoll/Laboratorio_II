@@ -1,0 +1,11 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\Prueba.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\CentralTelefonica.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\CentralTelefonica.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\obj\Debug\Prueba.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\Prueba\obj\Debug\Prueba.pdb
