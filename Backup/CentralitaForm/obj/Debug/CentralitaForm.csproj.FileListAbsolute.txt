@@ -1,0 +1,14 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\bin\Debug\CentralitaForm.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\bin\Debug\CentralitaForm.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\bin\Debug\CentralitaForm.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\bin\Debug\Entidades.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\bin\Debug\Entidades.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.Central.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.FrmLlamador.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.Properties.Resources.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.csproj.GenerateResource.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.csproj.CopyComplete
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralitaForm\obj\Debug\CentralitaForm.pdb

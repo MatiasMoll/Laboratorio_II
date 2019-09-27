@@ -1,0 +1,9 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

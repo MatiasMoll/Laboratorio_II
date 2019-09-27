@@ -37,9 +37,13 @@ namespace Sistema
         public static bool operator == (Negocio n, Cliente c)
         {
             bool retorno = false;
-            if(n.clientes.Contains(c))
+            if(!(n is null) && !(c is null))
             {
-                retorno = true;
+                if (n.clientes.Contains(c))
+                {
+                    retorno = true;
+                }
+
             }
             return retorno;
         }
@@ -50,14 +54,18 @@ namespace Sistema
         public static bool operator +(Negocio n, Cliente c)
         {
             bool retorno = false;
-            if(n != c)
+            if(!(n is null) && !(c is null))
             {
-                n.clientes.Enqueue(c);
-                retorno = true;
+                if (n != c)
+                {
+                    n.clientes.Enqueue(c);
+                    retorno = true;
+                }
             }
+
             return retorno;
         }
-        public static bool operator -(Negocio n)
+        public static bool operator ~(Negocio n)
         {
             bool retorno = false;
             if(!(n is null))
@@ -65,8 +73,8 @@ namespace Sistema
                 Cliente aux = n.Clientes;
                 if (!(aux is null))
                 {
-                    n.caja.Atender(aux);
-                    retorno = true;
+                    
+                    retorno = n.caja.Atender(aux); 
                 }
             }
             return retorno;

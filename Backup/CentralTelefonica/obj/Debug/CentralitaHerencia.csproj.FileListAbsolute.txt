@@ -1,0 +1,17 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio_XXXVII\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\obj\Debug\CentralTelefonica.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\obj\Debug\CentralTelefonica.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\bin\Debug\CentralTelefonica.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\bin\Debug\CentralTelefonica.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\bin\Debug\Entidades.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\bin\Debug\Entidades.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Backup\CentralTelefonica\obj\Debug\CentralitaHerencia.csproj.CopyComplete
