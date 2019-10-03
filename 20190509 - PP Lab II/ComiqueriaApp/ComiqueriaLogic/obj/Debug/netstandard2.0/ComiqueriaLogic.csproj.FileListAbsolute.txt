@@ -1,0 +1,9 @@
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\bin\Debug\netstandard2.0\ComiqueriaLogic.deps.json
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\bin\Debug\netstandard2.0\ComiqueriaLogic.dll
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\bin\Debug\netstandard2.0\ComiqueriaLogic.pdb
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.AssemblyInfoInputs.cache
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.AssemblyInfo.cs
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.dll
+C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaLogic\obj\Debug\netstandard2.0\ComiqueriaLogic.pdb
