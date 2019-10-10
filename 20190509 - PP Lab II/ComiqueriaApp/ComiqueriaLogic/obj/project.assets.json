@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bangho\\Downloads\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\ComiqueriaLogic.csproj",
+      "projectUniqueName": "C:\\Users\\Bangho\\Desktop\\Laboratorio II\\Laboratorio_II\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\ComiqueriaLogic.csproj",
       "projectName": "ComiqueriaLogic",
-      "projectPath": "C:\\Users\\Bangho\\Downloads\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\ComiqueriaLogic.csproj",
+      "projectPath": "C:\\Users\\Bangho\\Desktop\\Laboratorio II\\Laboratorio_II\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\ComiqueriaLogic.csproj",
       "packagesPath": "C:\\Users\\Bangho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bangho\\Downloads\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\obj\\",
+      "outputPath": "C:\\Users\\Bangho\\Desktop\\Laboratorio II\\Laboratorio_II\\20190509 - PP Lab II\\ComiqueriaApp\\ComiqueriaLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -63,3 +63,17 @@ C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\D
 C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
 C:\Users\Bangho\Downloads\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\20190509 - PP Lab II\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

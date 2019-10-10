@@ -108,7 +108,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Peru;
-            this.ClientSize = new System.Drawing.Size(244, 164);
+            this.ClientSize = new System.Drawing.Size(604, 164);
             this.Controls.Add(this.numericUpDownCantidad);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnVender);

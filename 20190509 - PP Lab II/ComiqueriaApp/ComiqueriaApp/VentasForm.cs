@@ -15,12 +15,10 @@ namespace ComiqueriaApp
     {
         Comiqueria comiqueria = new Comiqueria();
         Producto producto;
-        public VentasForm()
+     
+        public VentasForm(Comiqueria comiqueria,Producto p)
         {
             InitializeComponent();
-        }
-        public VentasForm(Comiqueria comiqueria,Producto p):this()
-        {
             this.comiqueria = comiqueria;
             this.producto = p;
         }

@@ -83,7 +83,7 @@ namespace ComiqueriaApp
             //El campo "productoSeleccionado" contiene el producto actualmente seleccionado en el listBox de productos. 
             //El campo "comiqueria" contiene la instancia de la comiqueria que se está utilizando.
             
-            Form ventasForm = new VentasForm(comiqueria,this.productoSeleccionado);
+            Form ventasForm = new VentasForm(comiqueria,productoSeleccionado);
             ventasForm.ShowDialog();
             DialogResult result = ventasForm.ShowDialog(); //Agregar código para abrir ventasForm de forma MODAL
             if (result == DialogResult.OK)
@@ -94,9 +94,8 @@ namespace ComiqueriaApp
 
         private void BtnVender_Click(object sender, EventArgs e)
         {
-            Form venta = new VentasForm(comiqueria,productoSeleccionado);
+            Form venta = new VentasForm(comiqueria, productoSeleccionado);
             DialogResult result = venta.ShowDialog();
-            
             if (result == DialogResult.OK)
             {
                 this.richTextBoxVentas.Text = this.comiqueria.ListarVentas();

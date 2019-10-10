@@ -1,0 +1,7 @@
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\bin\Debug\Ejercicio 42.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\bin\Debug\Ejercicio 42.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\bin\Debug\Ejercicio 42.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\obj\Debug\Ejercicio 42.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\obj\Debug\Ejercicio 42.csproj.CoreCompileInputs.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\obj\Debug\Ejercicio 42.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Ejercicio 42\obj\Debug\Ejercicio 42.pdb
