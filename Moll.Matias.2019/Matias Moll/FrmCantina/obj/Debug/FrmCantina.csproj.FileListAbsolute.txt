@@ -1,0 +1,15 @@
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.CoreCompileInputs.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.exe.config
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.exe
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.pdb
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\ControlesUsuario.dll
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\Examne.dll
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\ControlesUsuario.pdb
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\Examne.pdb
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.exe
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.pdb

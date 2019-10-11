@@ -1,0 +1,8 @@
+D:\Matias Moll\Moll.Matias.2019\20191010-PrimerParcial-alumno\Examne\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Matias Moll\Moll.Matias.2019\20191010-PrimerParcial-alumno\Examne\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\bin\Debug\Examne.dll
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\bin\Debug\Examne.pdb
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\obj\Debug\Examen.csprojAssemblyReference.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\obj\Debug\Examne.dll
+D:\Matias Moll\Moll.Matias.2019\Matias Moll\Examne\obj\Debug\Examne.pdb
