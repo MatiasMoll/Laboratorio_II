@@ -13,3 +13,17 @@ D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\Examne.pdb
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.exe
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.exe.config
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\FrmCantina.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\ControlesUsuario.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\Examne.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\ControlesUsuario.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\bin\Debug\Examne.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.Form1.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.Properties.Resources.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.GenerateResource.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.csproj.CopyComplete
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.exe
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\FrmCantina\obj\Debug\FrmCantina.pdb

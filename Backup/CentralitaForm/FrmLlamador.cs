@@ -80,7 +80,7 @@ namespace CentralitaForm
                     float costo =(float)((random.Next(50,56))/100);
                     Local aux = new Local(txtOrigen.Text, duracion, txtDestino.Text, costo);
                 }
-                llamada += aux;
+                //llamada += aux;
                 mensaje = "Llamada creada exitosamente!";
                 BtnLimpiar_Click(sender, e);
             }

@@ -58,10 +58,18 @@ namespace Examne
         protected Botella(string marca, int capacidadML, int contenidoML)
         {
             this.marca = marca;
-            this.capacidadML = capacidadML;
-            this.contenidoML = contenidoML;
+            if(capacidadML<contenidoML)
+            {
+                this.capacidadML = capacidadML;
+                this.contenidoML = capacidadML;
+            }else
+            {
+                this.capacidadML = capacidadML;
+                this.contenidoML = contenidoML;
+            }
+
         }
-        protected string GenerarInforme()
+        protected virtual string GenerarInforme()
         {
             StringBuilder retorno = new StringBuilder();
             retorno.AppendFormat("Marca: {0} Capacidad: {1} Contenido: {2}", this.marca, this.capacidadML, this.contenidoML);

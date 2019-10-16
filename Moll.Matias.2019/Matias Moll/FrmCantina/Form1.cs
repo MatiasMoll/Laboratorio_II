@@ -14,7 +14,7 @@ namespace FrmCantina
 {
     public partial class Form1 : Form
     {
-        public Barra barra = new Barra();
+        //public Barra barra = barra1;
         public Form1()
         {
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace FrmCantina
         private void Form1_Load(object sender, EventArgs e)
         {
             cmbTipo.DataSource = Enum.GetValues(typeof(Botella.Tipo));
-            this.barra.SetCantina = Cantina.GetCantina(10);
+            this.barra1.SetCantina = Cantina.GetCantina(10);
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -44,14 +44,14 @@ namespace FrmCantina
             }
             if (botella is Agua)
             {
-                barra.AgregarBotella((Agua)botella);
+                barra1.AgregarBotella((Agua)botella);
             }else if (botella is Cerveza)
             {
-                barra.AgregarBotella((Cerveza)botella);
+                barra1.AgregarBotella((Cerveza)botella);
             }
         }
 
-        private void barra1_Load(object sender, EventArgs e)
+        private void Barra1_Load(object sender, EventArgs e)
         {
 
         }

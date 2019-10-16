@@ -29,3 +29,14 @@ D:\Matias Moll\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\Controles
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.dll
 D:\Matias Moll\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\bin\Debug\ControlesUsuario.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\bin\Debug\ControlesUsuario.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\bin\Debug\Examne.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\bin\Debug\Examne.pdb
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.csprojAssemblyReference.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlCantina.Barra.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.Properties.Resources.resources
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.GenerateResource.cache
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.csproj.CopyComplete
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.dll
+C:\Users\Bangho\Desktop\Laboratorio II\Laboratorio_II\Moll.Matias.2019\Matias Moll\ControlesUsuario\obj\Debug\ControlesUsuario.pdb

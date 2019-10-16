@@ -181,7 +181,7 @@
             this.barra1.Name = "barra1";
             this.barra1.Size = new System.Drawing.Size(551, 360);
             this.barra1.TabIndex = 11;
-            this.barra1.Load += new System.EventHandler(this.barra1_Load);
+            this.barra1.Load += new System.EventHandler(this.Barra1_Load);
             // 
             // Form1
             // 

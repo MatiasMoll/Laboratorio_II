@@ -21,14 +21,16 @@ namespace Examne
         public int ServirMedida(int medida)
         {
             int retorno;
-            if ((medida / 1000) <= Contenido)
+            if (medida <= Contenido)
             {
-                retorno = Contenido - (medida / 1000);
-
+                this.Contenido = this.Contenido - medida;
+                retorno = medida;
             } else
             {
-                retorno = Contenido;
+                this.Contenido = 0;
+                retorno = 0;
             }
+
             return retorno;
         }
         public override int ServirMedida()
